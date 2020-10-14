@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+.topbar{
+	background-color: red;
+	width:119em;
+	height:13em;
+	
+}
+.logo{
+	position: absolute;
+	
+}
+.search{
+	position: absolute;
+	right: .6em;
+}
