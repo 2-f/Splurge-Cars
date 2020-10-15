@@ -4,7 +4,7 @@
 .topbar{
 	background-color: red;
 	width:119em;
-	height:13em;
+	height:7em;
 	
 }
 .logo{
@@ -13,5 +13,6 @@
 }
 .search{
 	position: absolute;
-	right: .6em;
+	right: 8em;
+	top: 3.8em;
 }
